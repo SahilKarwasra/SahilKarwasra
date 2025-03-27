@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sahil Karwasra</h1>
 <h3 align="center">A Full Stack Mobile Developer from India</h3>
 
-- 🔭 I’m currently honing my skills while Building new apps
+- 🔭 I’m currently Building Mobile Apps 
 
-- 🌱 I’m currently Mastering **Flutter/Dart** + **Node.js**
+- 🌱 I’m currently Mastering **Cloud Technologies** + **Swift**
 
 - 👨‍💻 All of my projects are available at [https://sahilkarwasra.vercel.app/](https://sahilkarwasra.vercel.app/)
 
 - 💬 Ask me about **Kotlin, Android, Flutter**
 
-- 💡 Skilled in **Jetpack Compose, Firebase, Ktor, MongoDB, and Supabase**, with a strong focus on backend integration.  
+- 💡 Skilled in **Jetpack Compose, Firebase, MongoDB, Node.js, FastAPI**, with a strong focus on backend integration.  
 
 - ⚡ Always exploring new technologies to enhance app performance and user experience.  
 
