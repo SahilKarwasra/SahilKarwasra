@@ -26,8 +26,6 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sahilkarwasra&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-[![GitHub Streak](https://github-readme-streak-stats-azure-delta.vercel.app?user=SahilKarwasra&theme=radical)](https://git.io/streak-stats) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkarwasra&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
