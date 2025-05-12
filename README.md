@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently Mastering **Cloud Technologies** + **Swift**
 
-- 👨‍💻 All of my projects are available at [https://sahilkarwasra.vercel.app/](https://sahilkarwasra.vercel.app/)
+- 👨‍💻 All of my projects are available in [Portfolio](https://sahil-nu.vercel.app//)
 
 - 💬 Ask me about **Kotlin, Android, Flutter**
 
