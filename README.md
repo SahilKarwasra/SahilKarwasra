@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sahil Karwasra</h1>
-<h3 align="center">A Full Stack Mobile Developer from India</h3>
+<h3 align="center">A Full Stack Mobile Developer</h3>
 
-- 🌱 I’m currently Mastering **Cloud Technologies** + **Swift**
+- 🌱 I’m currently Mastering **Cloud Technologies** + **Go Lang**
 
 - 👨‍💻 All of my projects are available in [Portfolio](https://sahilkarwasra.vercel.app/)
 
-- 💬 Ask me about **Kotlin, Android, Flutter**
+- 💬 Ask me about **Kotlin, KMP, Flutter**
 
-- 💡 Skilled in **Kotlin, Jetpack Compose, Kotlin MultiPlatform, Flutter, MongoDB, SQL, Node.js, Springboot, FastAPI**, with a strong focus on User Experience .  
+- 💡 Skilled in **Kotlin, Jetpack Compose, KMP, Flutter, MongoDB, SQL, Go Lang, FastAPI**, with a strong focus on User Experience .  
 
 - ⚡ Always exploring new technologies to enhance app performance and user experience.  
 
