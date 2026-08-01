@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Kotlin, KMP, Flutter**
 
-- 💡 Skilled in **Kotlin, Jetpack Compose, KMP, Flutter, MongoDB, SQL, Go Lang, FastAPI**, with a strong focus on User Experience .  
+- 💡 Skilled in **Kotlin, Jetpack Compose, KMP, Flutter, Go Lang, FastAPI, MongoDB, SQL**, with a strong focus on User Experience .  
 
 - ⚡ Always exploring new technologies to enhance app performance and user experience.  
 
