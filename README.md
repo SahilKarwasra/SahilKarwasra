@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Sahil Karwasra 👋</h1>
-<h3 align="center">Full Stack Mobile Developer | Kotlin • KMP • Flutter</h3>
+<h3 align="center">Software Engineer | Kotlin • Go Lang • Flutter</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F7&center=true&vCenter=true&width=500&lines=Building+cross-platform+apps+with+KMP;Kotlin+%26+Jetpack+Compose+enthusiast;Always+exploring+new+tech" alt="Typing SVG" />
