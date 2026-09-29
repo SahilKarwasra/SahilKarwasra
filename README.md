@@ -16,8 +16,8 @@
 
 ### 🚀 About Me
 
-- 💬 Ask me about **Kotlin, KMP, Flutter**
-- 🛠️ Skilled in **Kotlin, Jetpack Compose, KMP, Flutter, Go, FastAPI, MongoDB, SQL** — with a strong focus on user experience
+- 💬 Ask me about **Kotlin, Go Lang, Flutter**
+- 🛠️ Skilled in **Go Lang, Kotlin, Jetpack Compose, Kotlin Multiplatform, Flutter, FastAPI, MongoDB, SQL** — with a strong focus on user experience
 - ⚡ Always exploring new technologies to improve app performance and UX
 - 📫 Reach me at **sahilkarwasra11@gmail.com**
 
