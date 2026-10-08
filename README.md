@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Sahil Karwasra 👋</h1>
-<h3 align="center">Software Engineer | Kotlin • Go Lang • Flutter</h3>
+<h3 align="center">Software Engineer | Kotlin • Go Lang </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F7&center=true&vCenter=true&width=500&lines=Building+cross-platform+apps+with+KMP;Kotlin+%26+Jetpack+Compose+enthusiast;Always+exploring+new+tech" alt="Typing SVG" />
@@ -16,8 +16,8 @@
 
 ### 🚀 About Me
 
-- 💬 Ask me about **Kotlin, Go Lang, Flutter**
-- 🛠️ Skilled in **Go Lang, Kotlin, Jetpack Compose, Kotlin Multiplatform, Flutter, FastAPI, MongoDB, SQL** — with a strong focus on user experience
+- 💬 Ask me about **Kotlin, Go Lang**
+- 🛠️ Skilled in **Go Lang, GinGonic, Kotlin, WebSocket, WebRTC, Jetpack Compose, Kotlin Multiplatform, Flutter, Python, FastAPI, MongoDB, PostgreSQL, SQL** — with a strong focus on user experience
 - ⚡ Always exploring new technologies to improve app performance and UX
 - 📫 Reach me at **sahilkarwasra11@gmail.com**
 
