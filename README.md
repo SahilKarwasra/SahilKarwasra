@@ -24,7 +24,7 @@
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,golang,fastapi,mongodb,mysql,androidstudio,git,figma" alt="tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=golang,kotlin,flutter,dart,fastapi,mongodb,mysql,androidstudio,git,figma" alt="tech stack icons" />
 </p>
 
 ### 📊 GitHub Stats
