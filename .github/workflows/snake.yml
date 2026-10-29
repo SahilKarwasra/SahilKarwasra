@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate profile images
 
 on:
   schedule:
@@ -22,6 +22,14 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00ADD8
+
+      # Cached into the repo so the README never depends on a live third-party server.
+      - name: Fetch streak card
+        run: |
+          curl -fsSL --retry 5 --retry-all-errors --retry-delay 10 \
+            "https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&ring=7F52FF&fire=00ADD8&currStreakLabel=00ADD8" \
+            -o dist/streak.svg
+          grep -q "<svg" dist/streak.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
